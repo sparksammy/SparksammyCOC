@@ -8,9 +8,8 @@ We, overall, must follow one simple rule to each other: *Stay excellent to each 
 * Speaking English is a requirement so everyone understands each other.
 * No DOXing
 * No murderers and sexual predators that haven't done jail time yet are allowed here. Move on to another project.
-* Samuel (Sparksammy) Lord can do whatever he wants.
-  * This is just so that the owner (Samuel Lord) never gets kicked or banned from his own project[s].
-* The owner can do what they want, too. (If the owner is Sparksammy, then see above.)
+* The owner can do whatever they want.
+  * This is just so that the owner (In the case of sparkSammy projects, Samuel Lord aka Sparksammy) never gets kicked or banned from his own project[s].
 * "The only way to do great work is to love what you do." --Steve Jobs
 
 ## About real names.
