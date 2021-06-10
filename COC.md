@@ -23,3 +23,4 @@ Samuel (Sparksammy) Lord, if the project is by Sparksammy, is the benevolent dic
 
 ## About basing your work off of the Sparksammy COC.
 This work uses the Creative Commons Attribution-ShareAlike 4.0 International license. To learn more, go here: https://creativecommons.org/licenses/by-sa/4.0/
+<img src="https://www.pastepixel.com/image/zEf7ZbynPDdRw6Tuv9B3.png" alt=""/>
